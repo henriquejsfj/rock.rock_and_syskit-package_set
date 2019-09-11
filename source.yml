@@ -1,5 +1,5 @@
 name: rock.rock_and_syskit
 version_control:
+	- bundles/syskit_basics:
+	  github: rock-core/bundles-syskit_basics
 overrides:
-- bundles/syskit_basics:
-  github: rock-core/bundles-syskit_basics
